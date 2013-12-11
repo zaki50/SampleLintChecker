@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="layoutlib-api">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/android-sdks/tools/lib/layoutlib-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

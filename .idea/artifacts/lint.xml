@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="lint">
+    <output-path>$PROJECT_DIR$/out/artifacts/lint</output-path>
+    <root id="archive" name="MyLintChecker.jar">
+      <element id="module-output" name="checker" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/checker/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
